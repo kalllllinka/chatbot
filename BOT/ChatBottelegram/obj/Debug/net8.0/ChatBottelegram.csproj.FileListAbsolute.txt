@@ -1,0 +1,90 @@
+C:\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.csproj.AssemblyReference.cache
+C:\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.AssemblyInfoInputs.cache
+C:\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.AssemblyInfo.cs
+C:\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.csproj.CoreCompileInputs.cache
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\ChatBottelegram.exe
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\ChatBottelegram.deps.json
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\ChatBottelegram.runtimeconfig.json
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\ChatBottelegram.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\ChatBottelegram.pdb
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\Telegram.Bot.dll
+C:\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBott.BDEEDAAC.Up2Date
+C:\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.dll
+C:\BOT\ChatBottelegram\obj\Debug\net8.0\refint\ChatBottelegram.dll
+C:\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.pdb
+C:\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.genruntimeconfig.cache
+C:\BOT\ChatBottelegram\obj\Debug\net8.0\ref\ChatBottelegram.dll
+C:\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.sourcelink.json
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\EntityFramework.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\System.CodeDom.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\System.Data.SQLite.EF6.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\ChatBottelegram.exe
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\ChatBottelegram.deps.json
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\ChatBottelegram.runtimeconfig.json
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\ChatBottelegram.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\ChatBottelegram.pdb
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\System.Data.SQLite.EF6.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.csproj.AssemblyReference.cache
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.AssemblyInfoInputs.cache
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.AssemblyInfo.cs
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.csproj.CoreCompileInputs.cache
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.sourcelink.json
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBott.BDEEDAAC.Up2Date
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\obj\Debug\net8.0\refint\ChatBottelegram.dll
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.pdb
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\obj\Debug\net8.0\ChatBottelegram.genruntimeconfig.cache
+C:\Users\levon\OneDrive\Рабочий стол\BOT\ChatBottelegram\obj\Debug\net8.0\ref\ChatBottelegram.dll
